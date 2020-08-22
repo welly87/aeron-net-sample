@@ -352,3 +352,7 @@ MigrationBackup/
 .licenseheader
 
 .idea
+
+AeronSamples/driver/aeron-archieve/
+
+AeronSamples/driver/aeron-cluster/
